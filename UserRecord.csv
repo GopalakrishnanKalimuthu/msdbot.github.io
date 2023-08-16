@@ -1,0 +1,33 @@
+Date,Time,Request,Reply,UserIP
+15-07-2023,19:40:33,hi,"Hello, i'm carrey your HR Buddy how can i help you.",10.10.32.110
+15-07-2023,19:40:43,policy,Great!! Which policy would you like to know about?,10.10.32.110
+15-07-2023,19:42:37,hi,"Hello, i'm carrey your HR Buddy how can i help you.",10.10.32.95
+15-07-2023,19:42:50,policy ,Great!! Which policy would you like to know about?,10.10.32.95
+15-07-2023,19:43:05,insurance ,Group Medical Insurance is a health insurance package which covers in-patient hospitalization expenses (subject to exclusions and limits) provided the hospital stay is for a minimum period of 24 hours. For more information kindly check CSMS->Policy->Insurance Guidelines->General Information,10.10.32.95
+15-07-2023,19:45:19,klsok,Sorry,10.10.32.110
+15-07-2023,19:46:35,insurance,Group Medical Insurance is a health insurance package which covers in-patient hospitalization expenses (subject to exclusions and limits) provided the hospital stay is for a minimum period of 24 hours. For more information kindly check CSMS->Policy->Insurance Guidelines->General Information,10.10.32.110
+15-07-2023,19:47:06,policy ,Great!! Which policy would you like to know about?,10.10.32.95
+15-07-2023,19:49:00,ktm,bike,10.10.32.110
+18-07-2023,17:03:04,food chennai,Food is not provided in Chennai office,127.0.0.1
+18-07-2023,17:03:28,onroll,"The conversion will be Planned by the domain once the contract period over, based on the associates performance and project requirements, post  getting approval from domain Head, HR head the Conversion process will be initiated by HR Team",127.0.0.1
+18-07-2023,17:12:58,service agreement,for trainee,127.0.0.1
+18-07-2023,17:13:13,undertaking,Associates travelling for 1st time to onsite locations should mandatorily sign both Visa and Travel Agreement. This is valid from their date of travel. Once they returned to India locations associates have to serve for 1 year. If associates breach the Agreements they have to pay the amount mentioned in the Agreement.,127.0.0.1
+18-07-2023,17:13:45,travel undertaking,Associates travelling for 1st time to onsite locations should mandatorily sign both Visa and Travel Agreement. This is valid from their date of travel. Once they returned to India locations associates have to serve for 1 year. If associates breach the Agreements they have to pay the amount mentioned in the Agreement.,127.0.0.1
+18-07-2023,17:13:58,get undertaking,Associates travelling for 1st time to onsite locations should mandatorily sign both Visa and Travel Agreement. This is valid from their date of travel. Once they returned to India locations associates have to serve for 1 year. If associates breach the Agreements they have to pay the amount mentioned in the Agreement.,127.0.0.1
+18-07-2023,17:15:45,get undertaking,for trainee,127.0.0.1
+18-07-2023,17:15:52,service agreement,for trainee,127.0.0.1
+18-07-2023,17:16:07,service undertaking,for trainee,127.0.0.1
+18-07-2023,17:17:03,travel undertaking,Associates travelling for 1st time to onsite locations should mandatorily sign both Visa and Travel Agreement. This is valid from their date of travel. Once they returned to India locations associates have to serve for 1 year. If associates breach the Agreements they have to pay the amount mentioned in the Agreement.,127.0.0.1
+19-07-2023,21:28:44,relocation,Sorry,127.0.0.1
+14-08-2023,22:52:07,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,22:52:23,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,23:05:32,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,23:15:14,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,23:17:31,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,23:20:02,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,23:22:36,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+14-08-2023,23:22:55,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+15-08-2023,01:37:20,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+15-08-2023,01:38:06,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+15-08-2023,01:40:20,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
+15-08-2023,01:43:07,hi,"Hello, i'm carrey your HR Buddy how can i help you.",127.0.0.1
